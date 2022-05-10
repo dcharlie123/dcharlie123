@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+### Read more,Think more,Act more
 
 <!--
 **dcharlie123/dcharlie123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
